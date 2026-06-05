@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large, not committed)
+*.csv
+*.npz
+*.pkl
+*.npy
+
+# Google Colab specific
+/content/
+/drive/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+experiments/*.png
+outputs/*.csv
