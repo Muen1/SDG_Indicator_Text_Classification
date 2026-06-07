@@ -1,6 +1,6 @@
 # SDG 3 Indicator Text Classification
 
-Multi-label text classification system for identifying relevant [Sustainable Development Goal 3](https://sdgs.un.org/goals/goal3) indicators in development and humanitarian text. Built as part of a research-oriented ML assignment using ~3,000 labeled text samples from tenders, reports, news articles, and humanitarian initiatives.
+Multi-label text classification system for identifying relevant (Sustainable Development Goal) indicators in development and humanitarian text. 
 
 **Evaluation metric:** Hamming Loss (lower = better)  
 **Best result:** See `outputs/all_experiments_final.csv`
@@ -86,7 +86,7 @@ Upload them to your Google Drive at the following path:
 Each notebook mounts Google Drive automatically. Open any notebook in Colab via:
 
 ```
-File → Open notebook → GitHub → paste this repo URL
+File → Open notebook → GitHub → https://github.com/Muen1/SDG_Indicator_Text_Classification.git
 ```
 
 Or upload notebooks directly to Colab and mount Drive when prompted.
@@ -178,15 +178,15 @@ openpyxl >= 3.1.0
 
 ## Demo Video
 
-Link: see `docs/demo_video_link.txt`
+Link: see [https://github.com/Muen1/SDG_Indicator_Text_Classification.git](https://github.com/Muen1/SDG_Indicator_Text_Classification.git)
 
 ---
 
 ## Report
 
-Full academic report (APA citation style): `docs/GroupName_Assignment2.pdf`
+Full academic report (APA citation style): [https://docs.google.com/document/d/1zEB7fLTHCLJVJLQX2Ir-Ff_bhIo0OkxH14gWKZ9kjco/edit?usp=sharing](https://docs.google.com/document/d/1zEB7fLTHCLJVJLQX2Ir-Ff_bhIo0OkxH14gWKZ9kjco/edit?usp=sharing)
 
-Contribution tracker: `docs/contribution_tracker.pdf`
+Contribution tracker: [https://docs.google.com/spreadsheets/d/1pC97y_PSPDYHzi9JboodM0vYhU_8twlAUi5iAJb-ueo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1pC97y_PSPDYHzi9JboodM0vYhU_8twlAUi5iAJb-ueo/edit?usp=sharing)
 
 ---
 
