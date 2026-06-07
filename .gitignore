@@ -12,12 +12,8 @@ data/
 *.csv
 
 #  Model binaries 
-*.pkl
 *.joblib
 
-# NumPy / SciPy arrays 
-*.npy
-*.npz
 
 # OS metadata 
 .DS_Store
@@ -41,6 +37,7 @@ ENV/
 logs/
 
 # Temporary / download files 
-/tmp/
+tmp/
 *.zip
+*.tar.gz
 glove*/
