@@ -1,35 +1,43 @@
-# Python cache
+# Python cache 
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Jupyter notebook checkpoints
+# Jupyter checkpoints 
 .ipynb_checkpoints/
 
-# Data files (large, not committed)
+# Data files 
+data/
 *.csv
-*.npz
-*.pkl
-*.npy
 
-# Google Colab specific
-/content/
-/drive/
+#  Model binaries 
+*.joblib
 
-# OS metadata
+
+# OS metadata 
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Virtual environments
+# Virtual environments 
 venv/
 env/
 ENV/
+.venv/
 
-# IDE files
+# IDE / editor files 
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Logs and outputs
+# Logs 
 *.log
-experiments/*.png
-outputs/*.csv
+logs/
+
+# Temporary / download files 
+tmp/
+*.zip
+*.tar.gz
+glove*/
